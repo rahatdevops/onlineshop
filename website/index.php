@@ -1,10 +1,10 @@
 <html>
     <head>
-        <title>Saeed Shop</title>
+        <title>Rahat Shop</title>
     </head>
 
     <body>
-        <h1>Welcome to saeed shop</h1>
+        <h1>Welcome to Rahat shop</h1>
         <ul>
             <?php
 
